@@ -1,0 +1,83 @@
+/* General styling */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  /* Container styling */
+  .container {
+    width: 218px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 500px 150px 500px rgba(29, 26, 26, 0.1);
+  }
+  
+  /* Input and button styling */
+  .textc {
+    width: 100%;
+    padding: -1px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 25px;
+  }
+  
+  .button {
+    background-color: #0022e2;
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Todo list styling */
+  .todos {
+    margin-top: 10px;
+  }
+  
+  .todos div {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .todos div:last-child {
+    border-bottom: none;
+  }
+  .para-styling{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+  }
+  .button-del{
+    background-color: #ffffff;
+    color: rgb(4, 61, 248);
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  .content{
+    width: 218px;
+    margin: 33px auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  body{
+    background-color: #007bff;
+  }
